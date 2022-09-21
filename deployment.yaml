@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: nodeapp
-        image: us-docker.pkg.dev/starry-axis-344217/nodeapp/myapp:3d61570
+        image: us-docker.pkg.dev/starry-axis-344217/nodeapp/myapp:590dc7e
         ports:
         - containerPort: 3000
