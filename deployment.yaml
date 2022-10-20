@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: nodeapp
-        image: us-docker.pkg.dev/fair-station-363112/nodeapp/myapp:bb3f772
+        image: us-docker.pkg.dev/fair-station-363112/nodeapp/myapp:cd895c9
         ports:
         - containerPort: 3000
